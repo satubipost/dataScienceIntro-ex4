@@ -1026,4 +1026,4 @@ result_gbc.to_csv('result_gbc.csv', index=False)
 ```
 
 here is the result we got with gbc
-<img src="files/gbc_result.jpg">
+![png](gbc_result.jpg)
