@@ -959,7 +959,8 @@ result_knn.to_csv('result_knn.csv', index=False)
 ```
 
 here is the result we got with knn
-<img src="files/knn_result.jpg">
+![jpg](knn_result.JPG)
+
 
 ## Second Solution - Gradient Boosting
 
