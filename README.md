@@ -1028,3 +1028,8 @@ result_gbc.to_csv('result_gbc.csv', index=False)
 
 here is the result we got with gbc
 ![jpg](gbc_result.JPG)
+
+### links to output files:
+[a relative link](result_gbc.csv) 	
+[a relative link](result_knn.csv) 	
+
