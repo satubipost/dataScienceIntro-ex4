@@ -1030,6 +1030,6 @@ here is the result we got with gbc
 ![jpg](gbc_result.JPG)
 
 ### links to output files:
-[a relative link](result_gbc.csv) 	
-[a relative link](result_knn.csv) 	
+[gbc results](result_gbc.csv) 	
+[knn results](result_knn.csv) 	
 
